@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Nur Rafika Hakiki</h1>
+<h1 align="center">Hi 👋, I'm Nur Rafika Hakiki</h1>
 <h3 align="center">I'm usually called Fika🦸‍♀️. I come from Purworejo, Central Java, Indonesia🪐. I once took part in a Geophysics Expedition at the epicenter of the 2006 Jogja earthquake in 📌Sungai Opak, Pundong, Bantul.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **nurrafikahakiki@mail.ugm.ac.id**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
