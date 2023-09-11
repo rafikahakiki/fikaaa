@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nur Rafika Hakiki</h1>
-<h3 align="center">I'm usually called Fika. I come from Purworejo, Central Java, Indonesia. I once took part in a Geophysics Expedition at the epicenter of the 2006 Jogja earthquake in Sungai Opak, Pundong, Bantul.</h3>
+<h3 align="center">I'm usually called Fika🦸‍♀️. I come from Purworejo, Central Java, Indonesia🪐. I once took part in a Geophysics Expedition at the epicenter of the 2006 Jogja earthquake in 📌Sungai Opak, Pundong, Bantul.</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
-- 🔭 I’m currently working on **a computational methods practicum**
+- 👩‍🎓 I’m currently working on **a computational methods practicum**
 
 - 🌱 I’m currently learning **Geophysics UGM**
 
-- 👯 I’m currently joining **SEG UGM SC**
+- 🌍 I’m currently joining **SEG UGM SC**
 
 - 🤝 I’m I studied **Geology, Physics and computation**
 
